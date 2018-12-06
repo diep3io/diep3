@@ -1,0 +1,10 @@
+{
+  "name": "diep3",
+  "description": "diep3 beta
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  }
+}
